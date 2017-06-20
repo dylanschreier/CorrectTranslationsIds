@@ -8,11 +8,11 @@ bash ./correctTranslationsIds YOUR-BUNDLE-PATH/
 
 ## Requirement
 
-1 - Use the XLIFF format for translations.
-2 - Respect the structure below.
+1. Use the XLIFF format for translations.
+2. Respect the structure below.
 
 ```
----/MyBundle/
+---/MyBundle
 ------/Resources
 ---------/translations
 ------------messages.fr.xlf
