@@ -15,8 +15,6 @@ bash ./correctTranslationsIds YOUR-BUNDLE-PATH/
 ---/MyBundle
 ------/Resources
 ---------/translations
-------------messages.fr.xlf
-------------form.en.xlf
-------------*.*.xlf
+------------*.xlf
 
 ```
